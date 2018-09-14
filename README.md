@@ -13,7 +13,7 @@ Clone o repostiório, e vá até o diretório ``go/multi`` e execute o ``docker 
 
 Depois isso, compare o tamanho das imagens ;)
 
-#PYTHON
+# PYTHON
 
 ## Sem Multi-Stage
 Vá até o diretório ``python/normal`` e execute o ``docker build -t "python:1.0" .``
