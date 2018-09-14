@@ -1,4 +1,3 @@
-# README.md
 Repositório de exemplo para multi-stage build usando Docker \o/.
 
 # GO
